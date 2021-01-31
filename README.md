@@ -1,16 +1,50 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discordapp.com/users/188348192046186496">
+  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.instagram.com/_denis166/">
+  <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />
+</a>
+<a href="https://www.linkedin.com/in/dev-denis/">
+  <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-<!--
-**DeltaPy/DeltaPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![](https://visitor-badge.glitch.me/badge?page_id=deltapy.deltapy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+Hi, I'm [Denis Vasilev Dimchev!](https://blog.abhisheknaidu.tech/), a passionate Full Stack Web Developer 🚀 from Italy.
+
+  <img align="right" alt="GIF" src="https://github.com/DeltaPy/DeltaPy/blob/main/Media/DeltaPy.gif?raw=true" width="500" height="320" />
+  
+**Personal Stuff:**
+
+- 👨🏽‍💻 I’m currently working on something cool 😉;
+- 🌱 I’m currently learning Typescript; 
+- 💬 Ask me about anything, I am happy to help;
+- 🎫[Portfolio](http://devdenis.com/);
+- 📝[Resume](https://resume.io/r/rVEbCiaNs)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<br/>
+<br/>
+
+
+📈 My GitHub Stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=deltapy&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+
+
