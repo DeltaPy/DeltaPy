@@ -44,8 +44,9 @@ Hi, I'm [Denis Vasilev Dimchev!](http://devdenis.com/), a passionate Full Stack 
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=deltapy&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deltapy&langs_count=6&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=deltapy&show_icons=true&theme=gotham" alt="deltapy" />
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deltapy&langs_count=6&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
