@@ -16,7 +16,6 @@
 
 Hi, I'm [Denis Vasilev Dimchev!](http://devdenis.com/), a passionate Full Stack Web Developer 🚀 from Italy.
 
-  <img align="right" alt="GIF" src="https://github.com/DeltaPy/DeltaPy/blob/main/Media/DeltaPy.gif?raw=true" width="500" height="320" />
   
 **Personal Stuff:**
 
