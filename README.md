@@ -21,10 +21,10 @@ Hi, I'm [Denis Vasilev Dimchev!](http://devdenis.com/), a passionate Full Stack 
   
 **Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently working on something cool 😉;
-- 🌱 I’m currently learning Typescript; 
-- 💬 Ask me about anything, I am happy to help;
-- 🎫[Portfolio](http://devdenis.com/);
+- 👨🏽‍💻 I’m currently working on something cool 😉
+- 🌱 I’m currently learning Typescript 
+- 💬 Ask me about anything, I am happy to help
+- 🎫[Portfolio](http://devdenis.com/)
 - 📝[Resume](https://resume.io/r/rVEbCiaNs)
 
 **Languages and Tools:**  
