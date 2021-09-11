@@ -2,9 +2,6 @@
 <a href="https://discordapp.com/users/188348192046186496">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.instagram.com/_denis166/">
-  <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />
-</a>
 <a href="https://www.linkedin.com/in/dev-denis/">
   <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -46,7 +43,3 @@ Hi, I'm [Denis Vasilev Dimchev!](http://devdenis.com/), a passionate Full Stack 
 📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=deltapy&show_icons=true&theme=gotham" alt="deltapy" />
-  
-
-
-
