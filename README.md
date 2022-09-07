@@ -11,7 +11,7 @@
 
 <br />
 
-Hi, I'm [Denis Vasilev Dimchev](http://devdenis.com/), a passionate Full Stack Web Developer 🚀 from Italy.
+Hi, I'm [Denis](http://devdenis.com/), a passionate Full Stack Web Developer 🚀 from Italy.
 
 <img align="right" width="550px" src="https://github.com/DeltaPy/DeltaPy/blob/main/Media/Sci-Fi-Desk-Github.png?raw=true"/>
 
