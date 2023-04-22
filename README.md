@@ -19,7 +19,6 @@ Hi, I'm [Denis](http://devdenis.com/), a passionate Full Stack Web Developer �
 **Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently working on something cool 😉
-- 🌱 I’m currently learning Typescript 
 - 💬 Ask me about anything, I am happy to help
 - 🎫[Portfolio](http://devdenis.com/)
 - 📝[Resume](https://resume.io/r/rVEbCiaNs)
