@@ -7,7 +7,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=deltapy.deltapy)
+[![HitCount](https://hits.dwyl.com/DeltaPy/DeltaPy.svg?style=flat-square)](http://hits.dwyl.com/DeltaPy/DeltaPy)
 
 <br />
 
