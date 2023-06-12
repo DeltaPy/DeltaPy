@@ -17,7 +17,7 @@ Hi, I'm [Denis](http://devdenis.com/), a passionate Full Stack Web Developer �
 
 - 👨🏽‍💻 I’m currently working on something cool 😉
 - 💬 Ask me about anything, I am happy to help
-- 🎫[Portfolio](http://devdenis.com/)
+- 🎫[Portfolio](http://devdenis.com/) (Outdated)
 - 📝[Resume](https://resume.io/r/rVEbCiaNs)
 
 **Languages and Tools:**  
