@@ -4,7 +4,7 @@
 </a>
 
 
-[![HitCount](https://hits.dwyl.com/DeltaPy/DeltaPy.svg?style=flat-square)](http://hits.dwyl.com/DeltaPy/DeltaPy) (Had to reset my counter because it stoped working :( )
+[![HitCount](https://hits.dwyl.com/DeltaPy/DeltaPy.svg?style=flat-square)](http://hits.dwyl.com/DeltaPy/DeltaPy) Had to reset my counter because it stoped working :( 
 
 <br />
 
