@@ -4,7 +4,7 @@
 
 Hi, I'm [Denis](http://devdenis.com/), a passionate Software Developer from Italy.
 
-<img align="right" width="450px" src="https://github.com/DeltaPy/DeltaPy/blob/main/Media/Sci-Fi-Desk-Github.png?raw=true"/>
+<img align="right" width="400px" src="https://github.com/DeltaPy/DeltaPy/blob/main/Media/Sci-Fi-Desk-Github.png?raw=true"/>
 
   
 **Personal Stuff:**
@@ -19,7 +19,7 @@ Hi, I'm [Denis](http://devdenis.com/), a passionate Software Developer from Ital
 
 <br />
 
-**My Skillss:**  
+**My Skills:**  
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,redux,nodejs,java,cpp,python,mysql,aws,firebase,anaconda,arduino,raspberrypi&perline=8)](https://skillicons.dev)
 
