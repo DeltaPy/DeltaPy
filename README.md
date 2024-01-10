@@ -4,7 +4,7 @@
 
 Hi, I'm [Denis](http://devdenis.com/), a passionate Software Developer from Italy.
 
-<img align="right" width="550px" src="https://github.com/DeltaPy/DeltaPy/blob/main/Media/Sci-Fi-Desk-Github.png?raw=true"/>
+<img align="right" width="450px" src="https://github.com/DeltaPy/DeltaPy/blob/main/Media/Sci-Fi-Desk-Github.png?raw=true"/>
 
   
 **Personal Stuff:**
