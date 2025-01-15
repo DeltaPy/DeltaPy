@@ -9,9 +9,9 @@ Hi, I'm [Denis](http://devdenis.com/), a passionate Software Developer from Ital
   
 **Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently learning Machine Learning
+- 👨🏽‍💻 I’m currently learning something cool
 - 💬 Ask me about anything, I am happy to help
-- 🎫[Portfolio](http://devdenis.com/) (Outdated)
+- 🎫[Portfolio](http://devdenis.com/)
 - 📝[Resume](https://resume.io/r/rVEbCiaNs)
 - <a href="https://www.linkedin.com/in/dev-denis/">
   <img align='center' alt="Linkedin" width="22px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" />
